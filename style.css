@@ -1,0 +1,185 @@
+.r1{
+    height: 200px;
+    width: 250px;
+    position: relative;
+    left: 150px;
+}
+.r1:hover{
+    height: 210px;
+    width: 260px;
+}
+
+.bmw{
+    height: 220px;
+    width: 230px;
+    position: relative;
+    left: 150px;
+}
+.bmw:hover{
+    height: 230px;
+    width: 240px;
+}
+.re{
+    height: 210px;
+    width: 230px;
+    position: relative;
+    left: 150px;
+}
+.re:hover{
+    height: 220px;
+    width: 240px;
+}
+
+.do{
+    height: 210px;
+    width: 230px;
+    position: relative;
+    left: 150px;
+}
+
+.do:hover{
+    height: 220px;
+    width: 240px;
+}
+
+.spl{
+    height: 210px;
+    width: 230px;
+    position: relative;
+    left: 150px;
+}
+
+.spl:hover{
+    height: 220px;
+    width: 240px;
+}
+
+.sc{
+    height: 210px;
+    width: 200px;
+    position: relative;
+    left: 150px;
+
+}
+
+.sc:hover{
+    height: 220px;
+    width: 210px;
+}
+
+.top-image{
+    text-align: center;
+    height: 400px;
+    width: 100%;
+}
+
+.top-box{
+    text-align: center;
+
+}
+
+.el{
+    height: 210px;
+    width: 190px;
+    position: relative;
+    left: 150px;
+}
+
+.el:hover{
+    height: 220px;
+    width: 200px;
+}
+
+.s{
+    width: 70%;
+}
+
+p{
+    font-size: large;
+    font-style: oblique;
+}
+
+h1{
+    font-size: 60px;
+}
+
+td{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.under{
+
+    width: 25%;
+
+}
+
+body{
+    color: black;
+    background-color: white;
+}
+
+.contact-us .row{
+    justify-content: center;
+}
+
+.contact-us form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-us form input{
+    width:50%
+}
+
+.contact-us textarea{
+    width: 50%;
+    height: 150px;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    font-size: 1.3rem;
+    resize: none;
+    color: #ccc;
+    margin:1.2rem 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+}
+
+input[type=text],
+input[type=email]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 1.2rem 0;
+    display: block;
+    border: 1px solid #ccc;
+}
+
+input[type=submit]{
+    width: 50%;
+    background-color: #40d144;
+    color: #ccc;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4%;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+hr{
+    border-top: 2px dashed #8c8b8b;
+    border-bottom: none;
+}
